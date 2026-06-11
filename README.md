@@ -23,7 +23,7 @@ The [MagBound Smart Timer](https://ageofbondage.com/products/magbound-smart-time
 
 ## Demo
 
-https://github.com/user-attachments/assets/613fa588-7d4f-4cd2-b1a3-dd305e1226b9
+https://github.com/user-attachments/assets/0acf3574-f278-4572-8f49-305564ab7e40
 
 <i>"Are You Watching?" — one of the games. The better the video, the more dots you miss, the longer you stay locked.</i>
 
